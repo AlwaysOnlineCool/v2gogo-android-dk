@@ -55,7 +55,7 @@ public abstract class BaseActivity extends Activity
 	protected PullRefreshListView mPullRefreshListView;
 
 	/**
-	 * 清除请求任务
+	 * 清除请求任务  修改
 	 */
 	public abstract void clearRequestTask();
 
