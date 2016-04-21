@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/dk/Documents/AndroidStudioProjects/v2gogo-android/v2gogo/libs/UPPayPluginEx.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="2adb7d37c28757220e1a455dbd5722988aa6c73d">
+        <dex dex="/Users/dk/Documents/AndroidStudioProjects/v2gogo-android/v2gogo/build/intermediates/pre-dexed/debug/UPPayPluginEx_1d4ec391d0348d369fa391f0949a2bf7a8d4a582.jar" />
+    </item>
+    <item
+        jar="/Users/dk/Documents/AndroidStudioProjects/v2gogo-android/v2gogo/libs/UPPayAssistEx.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="d63c415d9b8c8d48677fe2253b21180ccc1afa0f">
+        <dex dex="/Users/dk/Documents/AndroidStudioProjects/v2gogo-android/v2gogo/build/intermediates/pre-dexed/debug/UPPayAssistEx_4f5eac99e268e2725d4832b57d2fa4f5dd1bc79c.jar" />
+    </item>
+    <item
+        jar="/Users/dk/Documents/AndroidStudioProjects/v2gogo-android/v2gogo/libs/EventBus2.4.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="bd22c7476d00a86c87e0c6a90cb0ae2cf982532a">
+        <dex dex="/Users/dk/Documents/AndroidStudioProjects/v2gogo-android/v2gogo/build/intermediates/pre-dexed/debug/EventBus2.4_56c97847d307fdfdc1b3c30df5f668831686413d.jar" />
+    </item>
+    <item
+        jar="/Users/dk/Documents/AndroidStudioProjects/v2gogo-android/v2gogo/libs/ShareSDK-SinaWeibo-2.6.3.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="a080389406bbb3b21310f84df77d7391f355addc">
+        <dex dex="/Users/dk/Documents/AndroidStudioProjects/v2gogo-android/v2gogo/build/intermediates/pre-dexed/debug/ShareSDK-SinaWeibo-2.6.3_32a4c7ba264cbca3ad6a6c9cd28c1053923d7dcf.jar" />
+    </item>
+    <item
+        jar="/Users/dk/Documents/AndroidStudioProjects/v2gogo-android/v2gogo/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="3c5c524fd7c7acb8b2030ddb7e85c103ae6773e5">
+        <dex dex="/Users/dk/Documents/AndroidStudioProjects/v2gogo-android/v2gogo/build/intermediates/pre-dexed/debug/instant-run_923161d07707f99be90f943501396205b995a119.jar" />
+    </item>
+    <item
+        jar="/Users/dk/Documents/AndroidStudioProjects/v2gogo-android/v2gogo/libs/alipaysecsdk.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="7413c074c9edf523050267b93d0875151dc4b644">
+        <dex dex="/Users/dk/Documents/AndroidStudioProjects/v2gogo-android/v2gogo/build/intermediates/pre-dexed/debug/alipaysecsdk_bf1e0fa148fbf9022823c8ed1109ed795bf91d81.jar" />
+    </item>
+    <item
+        jar="/Users/dk/Documents/AndroidStudioProjects/v2gogo-android/v2gogo/libs/glide-3.6.0.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="a7537446a030da8eb0da4c71424d16c2589f6c4a">
+        <dex dex="/Users/dk/Documents/AndroidStudioProjects/v2gogo-android/v2gogo/build/intermediates/pre-dexed/debug/glide-3.6.0_9aa99da813de4aefcad9fb3b68c2b348140590e0.jar" />
+    </item>
+    <item
+        jar="/Users/dk/Documents/AndroidStudioProjects/v2gogo-android/v2gogo/libs/MobTools.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="23e791d96579e8c56fd11f1912130ff93c2d6289">
+        <dex dex="/Users/dk/Documents/AndroidStudioProjects/v2gogo-android/v2gogo/build/intermediates/pre-dexed/debug/MobTools_f10c0bcd9d42e263a5daef98c845c385ce355bab.jar" />
+    </item>
+    <item
+        jar="/Users/dk/Documents/AndroidStudioProjects/v2gogo-android/v2gogo/libs/alipayutdid.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="4345fa0a5a7768f2f9c86aaab7db9e2906765193">
+        <dex dex="/Users/dk/Documents/AndroidStudioProjects/v2gogo-android/v2gogo/build/intermediates/pre-dexed/debug/alipayutdid_742e51951a491fe5a19b1578fde089d3e5b53087.jar" />
+    </item>
+    <item
+        jar="/Users/dk/Documents/AndroidStudioProjects/v2gogo-android/v2gogo/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="f08ef14b0cb9753e8a747cd6f568e9de5dda6c3f">
+        <dex dex="/Users/dk/Documents/AndroidStudioProjects/v2gogo-android/v2gogo/build/intermediates/pre-dexed/debug/instant-run-bootstrap_61d1b7be9a1ca931d46398cc15bf490952b6db95.jar" />
+    </item>
+    <item
+        jar="/Users/dk/Documents/AndroidStudioProjects/v2gogo-android/v2gogo/libs/ShareSDK-Wechat-Moments-2.6.3.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="2f743f1144aac80632be6d2ab76bff091a447b75">
+        <dex dex="/Users/dk/Documents/AndroidStudioProjects/v2gogo-android/v2gogo/build/intermediates/pre-dexed/debug/ShareSDK-Wechat-Moments-2.6.3_dc61e522672cc6e57c3ae1fe4a2c5bc68b392c97.jar" />
+    </item>
+    <item
+        jar="/Users/dk/Documents/AndroidStudioProjects/v2gogo-android/v2gogo/libs/android-async-http-1.4.6.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="a845a88238be0b5be9d238652c1bc0605ef91f52">
+        <dex dex="/Users/dk/Documents/AndroidStudioProjects/v2gogo-android/v2gogo/build/intermediates/pre-dexed/debug/android-async-http-1.4.6_3a7c764e33767ef56912ef8846624a9d30846269.jar" />
+    </item>
+    <item
+        jar="/Users/dk/Documents/AndroidStudioProjects/v2gogo-android/v2gogo/libs/ShareSDK-QZone-2.6.3.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="32748d59aaaf19ba26918dfecb9e2c35c80955fb">
+        <dex dex="/Users/dk/Documents/AndroidStudioProjects/v2gogo-android/v2gogo/build/intermediates/pre-dexed/debug/ShareSDK-QZone-2.6.3_02f22b32a9e395a0b8358712704eff684458c1d4.jar" />
+    </item>
+    <item
+        jar="/Users/dk/Documents/AndroidStudioProjects/v2gogo-android/v2gogo/libs/qiniu-android-sdk-7.0.6.1.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="989d5adee34f18be7aaa8a0b430285a34b01edbb">
+        <dex dex="/Users/dk/Documents/AndroidStudioProjects/v2gogo-android/v2gogo/build/intermediates/pre-dexed/debug/qiniu-android-sdk-7.0.6.1_457a52ac2d232e51d8e513a395784a59ac8a6244.jar" />
+    </item>
+    <item
+        jar="/Users/dk/Documents/AndroidStudioProjects/v2gogo-android/v2gogo/libs/ShareSDK-Wechat-2.6.3.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="c392d274c49d5b505a94edcd760c7e0e1536b034">
+        <dex dex="/Users/dk/Documents/AndroidStudioProjects/v2gogo-android/v2gogo/build/intermediates/pre-dexed/debug/ShareSDK-Wechat-2.6.3_dcd1b1c3d37fd64dcde2cfbbb368b68c2d478996.jar" />
+    </item>
+    <item
+        jar="/Users/dk/Documents/AndroidStudioProjects/v2gogo-android/v2gogo/libs/ShareSDK-QQ-2.6.3.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="496e163b2b242a83885f065f193810611ada229a">
+        <dex dex="/Users/dk/Documents/AndroidStudioProjects/v2gogo-android/v2gogo/build/intermediates/pre-dexed/debug/ShareSDK-QQ-2.6.3_ad5b4d8070870f3254b9086cfaa113b405502dc0.jar" />
+    </item>
+    <item
+        jar="/Users/dk/Documents/AndroidStudioProjects/v2gogo-android/v2gogo/libs/libammsdk.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="47f4993168154fa73377d7470b9f6887d48a8023">
+        <dex dex="/Users/dk/Documents/AndroidStudioProjects/v2gogo-android/v2gogo/build/intermediates/pre-dexed/debug/libammsdk_c9187b5e91e6e239a5b6be28a39259626e5f5ca2.jar" />
+    </item>
+    <item
+        jar="/Users/dk/Documents/AndroidStudioProjects/v2gogo-android/v2gogo/libs/ShareSDK-ShortMessage-2.6.3.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="fce8357b696421efbaa8dbfc3c99970a2f5e95ac">
+        <dex dex="/Users/dk/Documents/AndroidStudioProjects/v2gogo-android/v2gogo/build/intermediates/pre-dexed/debug/ShareSDK-ShortMessage-2.6.3_58abc7633bfa0f45e0280e707b9bf627d5d69631.jar" />
+    </item>
+    <item
+        jar="/Users/dk/Documents/AndroidStudioProjects/v2gogo-android/v2gogo/libs/alipaysdk.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="61551cf6e23c5133046a07ec6cd9dee6aa5c78a0">
+        <dex dex="/Users/dk/Documents/AndroidStudioProjects/v2gogo-android/v2gogo/build/intermediates/pre-dexed/debug/alipaysdk_409112002565157c1f0cc6b5d6c6a7e912677698.jar" />
+    </item>
+    <item
+        jar="/Users/dk/Documents/AndroidStudioProjects/v2gogo-android/v2gogo/libs/ShareSDK-Wechat-Core-2.6.3.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="33861299042fa89a53c56f3a15c37ba865a7d2e9">
+        <dex dex="/Users/dk/Documents/AndroidStudioProjects/v2gogo-android/v2gogo/build/intermediates/pre-dexed/debug/ShareSDK-Wechat-Core-2.6.3_441e54bb61ef75047f05ad078ae564461dcf8df1.jar" />
+    </item>
+    <item
+        jar="/Users/dk/Documents/AndroidStudioProjects/v2gogo-android/v2gogo/libs/MobLogCollector.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="0488dc80a5addc72b2fcb515f792a130c164ab5f">
+        <dex dex="/Users/dk/Documents/AndroidStudioProjects/v2gogo-android/v2gogo/build/intermediates/pre-dexed/debug/MobLogCollector_0f5e7bf3eb103b42db4fb9b157f98263ceb09053.jar" />
+    </item>
+    <item
+        jar="/Users/dk/Documents/AndroidStudioProjects/v2gogo-android/v2gogo/libs/greendao-1.3.0-beta-1.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="185a8ff3f50dbd99e5238d6d411ee86dd87d2b0a">
+        <dex dex="/Users/dk/Documents/AndroidStudioProjects/v2gogo-android/v2gogo/build/intermediates/pre-dexed/debug/greendao-1.3.0-beta-1_d34ac036ce6c2b3502ec608994b842e091e2c8c2.jar" />
+    </item>
+    <item
+        jar="/Users/dk/Documents/AndroidStudioProjects/v2gogo-android/v2gogo/libs/ShareSDK-Core-2.6.3.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="d072ff710fbddf800658d07d735ca3c5464ea04f">
+        <dex dex="/Users/dk/Documents/AndroidStudioProjects/v2gogo-android/v2gogo/build/intermediates/pre-dexed/debug/ShareSDK-Core-2.6.3_6f32bcd0bf8474859700b3adfb0086c46a5035a7.jar" />
+    </item>
+    <item
+        jar="/Users/dk/Documents/AndroidStudioProjects/v2gogo-android/v2gogo/libs/SwitchLayout1.0.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="f777370db75cf31e9617bddc0e502ca2d98f262b">
+        <dex dex="/Users/dk/Documents/AndroidStudioProjects/v2gogo-android/v2gogo/build/intermediates/pre-dexed/debug/SwitchLayout1.0_7a75fb116abe90fad9fa69f82eafbb087703b30a.jar" />
+    </item>
+    <item
+        jar="/Users/dk/Documents/AndroidStudioProjects/v2gogo-android/v2gogo/libs/volley-1.0.15.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="9093a362d18c5f81f58e49d86dece57d9b6e1cb7">
+        <dex dex="/Users/dk/Documents/AndroidStudioProjects/v2gogo-android/v2gogo/build/intermediates/pre-dexed/debug/volley-1.0.15_c1c7eb959bcf5a7e7b3d494c92fb238ff6caecb2.jar" />
+    </item>
+    <item
+        jar="/Users/dk/Documents/AndroidStudioProjects/v2gogo-android/v2gogo/libs/mframework.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="25509058b34a5ee08dbf66e57078e3083735d200">
+        <dex dex="/Users/dk/Documents/AndroidStudioProjects/v2gogo-android/v2gogo/build/intermediates/pre-dexed/debug/mframework_3579765767fd528b5c992e7f18b28f5a0e210c8a.jar" />
+    </item>
+    <item
+        jar="/Users/dk/Documents/AndroidStudioProjects/v2gogo-android/v2gogo/libs/universal-image-loader-1.9.4.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="cc86aa50171c6a5209ff595d5db037f94e7abf5b">
+        <dex dex="/Users/dk/Documents/AndroidStudioProjects/v2gogo-android/v2gogo/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.4_df8787b9f9599ed2fd33279dca4acd102741dc21.jar" />
+    </item>
+    <item
+        jar="/Users/dk/Documents/AndroidStudioProjects/v2gogo-android/v2gogo/libs/GetuiExt-2.0.3.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="7825bfa9135d693e2046eab96fd94e724e0f9eda">
+        <dex dex="/Users/dk/Documents/AndroidStudioProjects/v2gogo-android/v2gogo/build/intermediates/pre-dexed/debug/GetuiExt-2.0.3_98769b06990db5af124643da84731728216a188a.jar" />
+    </item>
+    <item
+        jar="/Users/dk/Documents/AndroidSDK/android-sdk-macosx/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/dk/Documents/AndroidStudioProjects/v2gogo-android/v2gogo/build/intermediates/pre-dexed/debug/support-v4-19.1.0_0513cfd3e18f6cce5c1ebfa5ead4c24cd391bbab.jar" />
+    </item>
+    <item
+        jar="/Users/dk/Documents/AndroidStudioProjects/v2gogo-android/v2gogo/libs/GetuiSdk2.5.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="662a392693d1c2b781c336cd4131883ec829884c">
+        <dex dex="/Users/dk/Documents/AndroidStudioProjects/v2gogo-android/v2gogo/build/intermediates/pre-dexed/debug/GetuiSdk2.5.0.0_3a355fca08afd2b80b47a46bd01c6aefe5dacd9f.jar" />
+    </item>
+    <item
+        jar="/Users/dk/Documents/AndroidStudioProjects/v2gogo-android/v2gogo/libs/testinagent.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="74c9dd0f470774ce814613041f04adeecc803900">
+        <dex dex="/Users/dk/Documents/AndroidStudioProjects/v2gogo-android/v2gogo/build/intermediates/pre-dexed/debug/testinagent_e516db37a8dbfdcc2fb92089df0f6f16bb9e9361.jar" />
+    </item>
+    <item
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="/Users/dk/Documents/AndroidStudioProjects/v2gogo-android/v2gogo/build/intermediates/pre-dexed/debug/gson-2.2.4_d0ce76b63ce905fbab3c5d385c8e1b8692010f19.jar" />
+    </item>
+
+</items>
